@@ -59,6 +59,7 @@ header {
     border: 3px solid white;
     border-radius: 50%;
     margin: 10px 15px;
+    padding: 25px;
     transition: all 0.3s ease;
 }
 
@@ -68,15 +69,18 @@ header {
 }
 
 #rock {
-    padding: 30px 40px;
+    width: 160px;
+    height: 160px;
 }
 
 #paper {
-    padding: 30px 32px;
+    width: 160px;
+    height: 160px;
 }
 
 #scissor {
-    padding: 30px 45px;
+    width: 160px;
+    height: 160px;
 }
 
 .green-glow {
